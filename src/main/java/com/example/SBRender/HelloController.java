@@ -2,7 +2,7 @@ package com.example.demo;
 
 import org.springframework.web.bind.annotation.*;
 
-@CrossOrigin(origins = "*")
+@CrossOrigin(origins = "https://frontendrender-ktnx.onrender.com")
 @RestController
 @RequestMapping("/api")
 public class HelloController {

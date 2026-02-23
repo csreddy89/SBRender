@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.SBRender;
 
 import org.springframework.web.bind.annotation.*;
 
